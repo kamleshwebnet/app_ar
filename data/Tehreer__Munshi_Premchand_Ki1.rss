@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     xmlns:media="http://search.yahoo.com/mrss/" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:podcast="https://podcastindex.org/namespace/1.0" 
+     version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.youtube.com"/>
+    <title>Tehreer...Munshi Premchand Ki</title>
+    <link>https://www.youtube.com</link>
+    <description><![CDATA[ Tehreer...Munshi Premchand Ki - YouTube Playlist Podcast ]]></description>
+    <language>hi</language>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>Tehreer...Munshi Premchand Ki - YouTube Playlist Podcast</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Youtube</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Youtube</itunes:author>
+    <copyright>2026 Youtube</copyright>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts"/>
+    <item>
+      <title>Play all</title>
+      <itunes:title>Play all</itunes:title>
+      <description><![CDATA[ <p>Play all - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>Play all - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>Play all</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/BCBOA4mvFbs/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=BCBOA4mvFbs" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=BCBOA4mvFbs"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/BCBOA4mvFbs/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/BCBOA4mvFbs/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:BCBOA4mvFbs</guid>
+      <pubDate>Tue, 21 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=BCBOA4mvFbs</link>
+      <enclosure url="https://www.youtube.com/watch?v=BCBOA4mvFbs" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Video ono1QkwoGUU</title>
+      <itunes:title>Video ono1QkwoGUU</itunes:title>
+      <description><![CDATA[ <p>Video ono1QkwoGUU - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>Video ono1QkwoGUU - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>Video ono1QkwoGUU</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/ono1QkwoGUU/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=ono1QkwoGUU" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=ono1QkwoGUU"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/ono1QkwoGUU/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/ono1QkwoGUU/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:ono1QkwoGUU</guid>
+      <pubDate>Wed, 22 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=ono1QkwoGUU</link>
+      <enclosure url="https://www.youtube.com/watch?v=ono1QkwoGUU" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:40</title>
+      <itunes:title>25:40</itunes:title>
+      <description><![CDATA[ <p>25:40 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:40 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:40</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/o75yt3vZfIo/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=o75yt3vZfIo" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=o75yt3vZfIo"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/o75yt3vZfIo/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/o75yt3vZfIo/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:o75yt3vZfIo</guid>
+      <pubDate>Thu, 23 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=o75yt3vZfIo</link>
+      <enclosure url="https://www.youtube.com/watch?v=o75yt3vZfIo" type="video/mp4"/>
+    </item>
+    <item>
+      <title>24:55</title>
+      <itunes:title>24:55</itunes:title>
+      <description><![CDATA[ <p>24:55 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>24:55 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>24:55</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/tZASx0nRBBI/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=tZASx0nRBBI" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=tZASx0nRBBI"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/tZASx0nRBBI/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/tZASx0nRBBI/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:tZASx0nRBBI</guid>
+      <pubDate>Fri, 24 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=tZASx0nRBBI</link>
+      <enclosure url="https://www.youtube.com/watch?v=tZASx0nRBBI" type="video/mp4"/>
+    </item>
+    <item>
+      <title>28:44</title>
+      <itunes:title>28:44</itunes:title>
+      <description><![CDATA[ <p>28:44 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>28:44 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>28:44</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/_Dj-SEGS9SU/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=_Dj-SEGS9SU" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=_Dj-SEGS9SU"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/_Dj-SEGS9SU/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/_Dj-SEGS9SU/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:_Dj-SEGS9SU</guid>
+      <pubDate>Sat, 25 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=_Dj-SEGS9SU</link>
+      <enclosure url="https://www.youtube.com/watch?v=_Dj-SEGS9SU" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:08</title>
+      <itunes:title>26:08</itunes:title>
+      <description><![CDATA[ <p>26:08 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:08 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:08</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/g27s8Ligsww/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=g27s8Ligsww" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=g27s8Ligsww"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/g27s8Ligsww/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/g27s8Ligsww/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:g27s8Ligsww</guid>
+      <pubDate>Sun, 26 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=g27s8Ligsww</link>
+      <enclosure url="https://www.youtube.com/watch?v=g27s8Ligsww" type="video/mp4"/>
+    </item>
+    <item>
+      <title>27:20</title>
+      <itunes:title>27:20</itunes:title>
+      <description><![CDATA[ <p>27:20 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>27:20 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>27:20</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/CqnT9czLtzw/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=CqnT9czLtzw" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=CqnT9czLtzw"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/CqnT9czLtzw/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/CqnT9czLtzw/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:CqnT9czLtzw</guid>
+      <pubDate>Mon, 27 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=CqnT9czLtzw</link>
+      <enclosure url="https://www.youtube.com/watch?v=CqnT9czLtzw" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:30</title>
+      <itunes:title>25:30</itunes:title>
+      <description><![CDATA[ <p>25:30 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:30 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:30</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/M7fQqlzD-zE/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=M7fQqlzD-zE" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=M7fQqlzD-zE"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/M7fQqlzD-zE/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/M7fQqlzD-zE/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:M7fQqlzD-zE</guid>
+      <pubDate>Tue, 28 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=M7fQqlzD-zE</link>
+      <enclosure url="https://www.youtube.com/watch?v=M7fQqlzD-zE" type="video/mp4"/>
+    </item>
+    <item>
+      <title>28:03</title>
+      <itunes:title>28:03</itunes:title>
+      <description><![CDATA[ <p>28:03 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>28:03 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>28:03</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/ff4rMfY7LeQ/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=ff4rMfY7LeQ" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=ff4rMfY7LeQ"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/ff4rMfY7LeQ/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/ff4rMfY7LeQ/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:ff4rMfY7LeQ</guid>
+      <pubDate>Wed, 29 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=ff4rMfY7LeQ</link>
+      <enclosure url="https://www.youtube.com/watch?v=ff4rMfY7LeQ" type="video/mp4"/>
+    </item>
+    <item>
+      <title>22:58</title>
+      <itunes:title>22:58</itunes:title>
+      <description><![CDATA[ <p>22:58 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>22:58 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>22:58</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/QgCVlEge_2g/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=QgCVlEge_2g" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=QgCVlEge_2g"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/QgCVlEge_2g/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/QgCVlEge_2g/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:QgCVlEge_2g</guid>
+      <pubDate>Thu, 30 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=QgCVlEge_2g</link>
+      <enclosure url="https://www.youtube.com/watch?v=QgCVlEge_2g" type="video/mp4"/>
+    </item>
+    <item>
+      <title>23:35</title>
+      <itunes:title>23:35</itunes:title>
+      <description><![CDATA[ <p>23:35 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>23:35 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>23:35</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/KU1lRbQki2U/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=KU1lRbQki2U" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=KU1lRbQki2U"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/KU1lRbQki2U/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/KU1lRbQki2U/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:KU1lRbQki2U</guid>
+      <pubDate>Fri, 31 Jul 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=KU1lRbQki2U</link>
+      <enclosure url="https://www.youtube.com/watch?v=KU1lRbQki2U" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:10</title>
+      <itunes:title>26:10</itunes:title>
+      <description><![CDATA[ <p>26:10 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:10 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:10</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/vN8Rti3jqmk/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=vN8Rti3jqmk" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=vN8Rti3jqmk"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/vN8Rti3jqmk/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/vN8Rti3jqmk/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:vN8Rti3jqmk</guid>
+      <pubDate>Sat, 01 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=vN8Rti3jqmk</link>
+      <enclosure url="https://www.youtube.com/watch?v=vN8Rti3jqmk" type="video/mp4"/>
+    </item>
+    <item>
+      <title>24:57</title>
+      <itunes:title>24:57</itunes:title>
+      <description><![CDATA[ <p>24:57 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>24:57 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>24:57</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/XbczDgbN8d8/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=XbczDgbN8d8" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=XbczDgbN8d8"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/XbczDgbN8d8/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/XbczDgbN8d8/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:XbczDgbN8d8</guid>
+      <pubDate>Sun, 02 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=XbczDgbN8d8</link>
+      <enclosure url="https://www.youtube.com/watch?v=XbczDgbN8d8" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:07</title>
+      <itunes:title>26:07</itunes:title>
+      <description><![CDATA[ <p>26:07 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:07 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:07</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/F5tv7aAkSKA/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=F5tv7aAkSKA" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=F5tv7aAkSKA"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/F5tv7aAkSKA/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/F5tv7aAkSKA/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:F5tv7aAkSKA</guid>
+      <pubDate>Mon, 03 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=F5tv7aAkSKA</link>
+      <enclosure url="https://www.youtube.com/watch?v=F5tv7aAkSKA" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:05</title>
+      <itunes:title>26:05</itunes:title>
+      <description><![CDATA[ <p>26:05 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:05 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:05</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/VKs13VRYwyM/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=VKs13VRYwyM" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=VKs13VRYwyM"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/VKs13VRYwyM/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/VKs13VRYwyM/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:VKs13VRYwyM</guid>
+      <pubDate>Tue, 04 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=VKs13VRYwyM</link>
+      <enclosure url="https://www.youtube.com/watch?v=VKs13VRYwyM" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:37</title>
+      <itunes:title>25:37</itunes:title>
+      <description><![CDATA[ <p>25:37 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:37 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:37</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/Z4pU99mwxf0/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=Z4pU99mwxf0" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=Z4pU99mwxf0"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/Z4pU99mwxf0/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/Z4pU99mwxf0/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:Z4pU99mwxf0</guid>
+      <pubDate>Wed, 05 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=Z4pU99mwxf0</link>
+      <enclosure url="https://www.youtube.com/watch?v=Z4pU99mwxf0" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:05</title>
+      <itunes:title>25:05</itunes:title>
+      <description><![CDATA[ <p>25:05 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:05 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:05</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/mkRJu8HSk6s/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=mkRJu8HSk6s" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=mkRJu8HSk6s"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/mkRJu8HSk6s/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/mkRJu8HSk6s/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:mkRJu8HSk6s</guid>
+      <pubDate>Thu, 06 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=mkRJu8HSk6s</link>
+      <enclosure url="https://www.youtube.com/watch?v=mkRJu8HSk6s" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:12</title>
+      <itunes:title>26:12</itunes:title>
+      <description><![CDATA[ <p>26:12 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:12 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:12</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/x6ORgZfbw9Q/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=x6ORgZfbw9Q" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=x6ORgZfbw9Q"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/x6ORgZfbw9Q/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/x6ORgZfbw9Q/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:x6ORgZfbw9Q</guid>
+      <pubDate>Fri, 07 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=x6ORgZfbw9Q</link>
+      <enclosure url="https://www.youtube.com/watch?v=x6ORgZfbw9Q" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:04</title>
+      <itunes:title>26:04</itunes:title>
+      <description><![CDATA[ <p>26:04 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:04 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:04</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/6QFh6jxxQMo/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=6QFh6jxxQMo" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=6QFh6jxxQMo"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/6QFh6jxxQMo/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/6QFh6jxxQMo/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:6QFh6jxxQMo</guid>
+      <pubDate>Sat, 08 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=6QFh6jxxQMo</link>
+      <enclosure url="https://www.youtube.com/watch?v=6QFh6jxxQMo" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:31</title>
+      <itunes:title>26:31</itunes:title>
+      <description><![CDATA[ <p>26:31 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:31 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:31</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/x8RX_z-Ayag/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=x8RX_z-Ayag" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=x8RX_z-Ayag"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/x8RX_z-Ayag/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/x8RX_z-Ayag/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:x8RX_z-Ayag</guid>
+      <pubDate>Sun, 09 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=x8RX_z-Ayag</link>
+      <enclosure url="https://www.youtube.com/watch?v=x8RX_z-Ayag" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:18</title>
+      <itunes:title>25:18</itunes:title>
+      <description><![CDATA[ <p>25:18 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:18 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:18</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/WaJB3MVgoos/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=WaJB3MVgoos" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=WaJB3MVgoos"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/WaJB3MVgoos/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/WaJB3MVgoos/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:WaJB3MVgoos</guid>
+      <pubDate>Mon, 10 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=WaJB3MVgoos</link>
+      <enclosure url="https://www.youtube.com/watch?v=WaJB3MVgoos" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:37</title>
+      <itunes:title>26:37</itunes:title>
+      <description><![CDATA[ <p>26:37 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:37 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:37</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/4PSzQXynXmU/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=4PSzQXynXmU" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=4PSzQXynXmU"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/4PSzQXynXmU/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/4PSzQXynXmU/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:4PSzQXynXmU</guid>
+      <pubDate>Tue, 11 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=4PSzQXynXmU</link>
+      <enclosure url="https://www.youtube.com/watch?v=4PSzQXynXmU" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:31</title>
+      <itunes:title>26:31</itunes:title>
+      <description><![CDATA[ <p>26:31 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:31 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:31</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/1AkwRpeRHww/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=1AkwRpeRHww" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=1AkwRpeRHww"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/1AkwRpeRHww/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/1AkwRpeRHww/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:1AkwRpeRHww</guid>
+      <pubDate>Wed, 12 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=1AkwRpeRHww</link>
+      <enclosure url="https://www.youtube.com/watch?v=1AkwRpeRHww" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:40</title>
+      <itunes:title>26:40</itunes:title>
+      <description><![CDATA[ <p>26:40 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:40 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:40</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/dYgcsfhVPGw/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=dYgcsfhVPGw" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=dYgcsfhVPGw"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/dYgcsfhVPGw/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/dYgcsfhVPGw/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:dYgcsfhVPGw</guid>
+      <pubDate>Thu, 13 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=dYgcsfhVPGw</link>
+      <enclosure url="https://www.youtube.com/watch?v=dYgcsfhVPGw" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:54</title>
+      <itunes:title>25:54</itunes:title>
+      <description><![CDATA[ <p>25:54 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:54 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:54</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/ce5MRnTWM8c/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=ce5MRnTWM8c" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=ce5MRnTWM8c"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/ce5MRnTWM8c/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/ce5MRnTWM8c/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:ce5MRnTWM8c</guid>
+      <pubDate>Fri, 14 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=ce5MRnTWM8c</link>
+      <enclosure url="https://www.youtube.com/watch?v=ce5MRnTWM8c" type="video/mp4"/>
+    </item>
+    <item>
+      <title>25:24</title>
+      <itunes:title>25:24</itunes:title>
+      <description><![CDATA[ <p>25:24 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>25:24 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>25:24</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/ILH7pu8LbBs/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=ILH7pu8LbBs" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=ILH7pu8LbBs"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/ILH7pu8LbBs/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/ILH7pu8LbBs/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:ILH7pu8LbBs</guid>
+      <pubDate>Sat, 15 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=ILH7pu8LbBs</link>
+      <enclosure url="https://www.youtube.com/watch?v=ILH7pu8LbBs" type="video/mp4"/>
+    </item>
+    <item>
+      <title>26:13</title>
+      <itunes:title>26:13</itunes:title>
+      <description><![CDATA[ <p>26:13 - Watch on YouTube</p> ]]></description>
+      <content:encoded><![CDATA[ <p>26:13 - Full episode available on YouTube</p> ]]></content:encoded>
+      <itunes:summary>26:13</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Youtube</itunes:author>
+      <itunes:image href="https://img.youtube.com/vi/3ZwcFPLHoUc/hqdefault.jpg"/>
+      <media:content url="https://www.youtube.com/watch?v=3ZwcFPLHoUc" type="video/mp4">
+        <media:player url="https://www.youtube.com/watch?v=3ZwcFPLHoUc"/>
+      </media:content>
+      <media:content url="https://img.youtube.com/vi/3ZwcFPLHoUc/hqdefault.jpg" type="image/jpeg"/>
+      <media:thumbnail url="https://img.youtube.com/vi/3ZwcFPLHoUc/hqdefault.jpg"/>
+      <guid isPermaLink="false">yt:video:3ZwcFPLHoUc</guid>
+      <pubDate>Sun, 16 Aug 2026 17:24:06 GMT</pubDate>
+      <link>https://www.youtube.com/watch?v=3ZwcFPLHoUc</link>
+      <enclosure url="https://www.youtube.com/watch?v=3ZwcFPLHoUc" type="video/mp4"/>
+    </item>
+  </channel>
+</rss>
