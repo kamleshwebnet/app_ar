@@ -10,20 +10,27 @@
           "version": 20260411,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_fmradio_schema.sql",
-          "params": {
-            "part": "schema",
-            "table": "t_radio"
-          }
+          "params": { "part": "schema", "table": "t_radio" }
         },
         {
           "id": "radio_data",
           "version": 20260411,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_fmradio_data.csv",
-          "params": {
-            "part": "data",
-            "table": "t_radio"
-          }
+          "params": { "part": "data", "table": "t_radio" }
+        }
+      ]
+    },
+    {
+      "name": "podcast",
+      "description": "Podcast data.",
+      "files": [
+        {
+          "id": "podcast_data",
+          "version": 20260820,
+          "type": "DB_UPDATE",
+          "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_podcast_data.csv",
+          "params": { "part": "data", "table": "t_podcast" }
         }
       ]
     },
@@ -36,40 +43,28 @@
           "version": 20240523,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_homepage_schema.sql",
-          "params": {
-            "part": "schema",
-            "table": "t_homepage"
-          }
+          "params": { "part": "schema", "table": "t_homepage" }
         },
         {
           "id": "homepage_db_data",
           "version": 20240523,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_homepage_data.csv",
-          "params": {
-            "part": "data",
-            "table": "t_homepage"
-          }
+          "params": { "part": "data", "table": "t_homepage" }
         },
         {
           "id": "drawer_db_schema",
           "version": 20240523,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_homepage_drawer_schema.sql",
-          "params": {
-            "part": "schema",
-            "table": "t_homepage_drawer"
-          }
+          "params": { "part": "schema", "table": "t_homepage_drawer" }
         },
         {
           "id": "drawer_db_data",
           "version": 20240523,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_homepage_drawer_data.csv",
-          "params": {
-            "part": "data",
-            "table": "t_homepage_drawer"
-          }
+          "params": { "part": "data", "table": "t_homepage_drawer" }
         }
       ]
     }
