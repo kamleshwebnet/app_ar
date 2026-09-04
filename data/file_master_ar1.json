@@ -1,0 +1,37 @@
+{
+  "modules": [
+    {
+      "name": "radio",
+      "description": "FM Radio stations, data, and icons.",
+      "icon_base_url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icon_fm_260904/",
+      "files": [
+        {
+          "id": "radio_data",
+          "version": 20260905,
+          "type": "DB_UPDATE",
+          "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_fmradio_data_260904.csv",
+          "params": {
+            "part": "data",
+            "table": "t_radio"
+          }
+        }
+      ]
+    },
+    {
+      "name": "podcast",
+      "description": "Podcast data.",
+      "files": [
+        {
+          "id": "podcast_data",
+          "version": 20260820,
+          "type": "DB_UPDATE",
+          "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_podcast_data.csv",
+          "params": {
+            "part": "data",
+            "table": "t_podcast"
+          }
+        }
+      ]
+    }
+  ]
+}
