@@ -3,7 +3,7 @@
     {
       "name": "radio",
       "description": "FM Radio stations, data, and icons.",
-      "icon_base_url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icon_fm_260904/",
+      "icon_base_url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/",
       "files": [
         {
           "id": "radio_data",
