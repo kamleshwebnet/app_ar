@@ -3,11 +3,10 @@
     {
       "name": "radio",
       "description": "FM Radio stations, data, and icons.",
-      "icon_base_url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/",
       "files": [
         {
           "id": "radio_data",
-          "version": 20260906,
+          "version": 20260912,
           "type": "DB_UPDATE",
           "url": "https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/data/t_fmradio_data_260904.csv",
           "params": {
