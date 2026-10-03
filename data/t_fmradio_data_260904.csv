@@ -620,3 +620,7 @@ t_radio|TV Music|Zing!|https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=7
 t_radio|TV Music|Zoom (720p)|https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540||https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 t_radio|TV Music|Zoom (576p)|https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540||https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 t_radio|TV Music|Zoom (576p) #2|https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540||https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
+t_radio|Artist Radio|SPB Hits|https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/spb-hits.webp||https://stream.zeno.fm/u0ze9rfzyp8uv
+t_radio|Artist Radio|SPB Old Hits|https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/spb-old-hits.webp||https://stream.zeno.fm/lgukkevrihmvv
+t_radio|Artist Radio|K J Yesudas|https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/k-j-yesudas.webp||https://stream.zeno.fm/trtwuyqdmrgtv
+t_radio|Artist Radio|Hariharan|https://cdn.jsdelivr.net/gh/kamleshwebnet/app_ar@main/icons_radio/hariharan.webp||https://psrlive4.listenon.in/hari?station=hariharanradio
